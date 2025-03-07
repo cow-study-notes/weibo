@@ -13,4 +13,10 @@
 ![image](https://github.com/user-attachments/assets/c2c64532-f510-4af2-8180-98c0ea733317)
 ### 5.发布完成提取链接
 ![image](https://github.com/user-attachments/assets/40ac18ce-0886-43a4-a36a-f914cd37a6c6)
+### 6.链接筛选(使用python脚本)
+### 7.筛选完成使用自己蜘蛛池(https://web.agmjq.cn/alex666.php)
+![image](https://github.com/user-attachments/assets/5061e2d3-8665-4bfe-8ec9-42ec14c9b765)
+### 8.上传完成后需要清理两个地方的缓存
+![image](https://github.com/user-attachments/assets/6ea7bc7a-b244-458a-95ea-955435dc9d24)
+
 
