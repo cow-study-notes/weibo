@@ -9,3 +9,6 @@
      2.每号发布次数
      3.账号循环次数
 ![image](https://github.com/user-attachments/assets/63af87d9-1402-493d-8d64-346f6347ef0e)
+     4.选择发布外链的文本(文本在桌面-外链文档-外链发布)
+![image](https://github.com/user-attachments/assets/c2c64532-f510-4af2-8180-98c0ea733317)
+
